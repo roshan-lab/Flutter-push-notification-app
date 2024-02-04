@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225193671045",
+    "project_id": "fir-push-notification-a9e08",
+    "storage_bucket": "fir-push-notification-a9e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225193671045:android:a2d12c3b73358554daacec",
+        "android_client_info": {
+          "package_name": "com.futuresoftindia.pushnotification_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGdvgbFNSdZF7xAM1HHGVSmnxDhk9EuN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
